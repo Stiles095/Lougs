@@ -63,3 +63,7 @@ ul{
     font-size: 20px;
     color: dodgerblue;
 }
+.experience_item p{
+    margin: 0;
+    font-size: 16px;
+}
